@@ -1,14 +1,17 @@
 Dwa sposoby: 
-rozpoznanie szkieletu + przedmiotów, 
-wykrywanie ramion przez sprogowanie i wykrycie linii ramion
+1. rozpoznanie szkieletu + przedmiotów, 
+2. wykrywanie ramion przez sprogowanie i wykrycie linii ramion
+
 analiza całościowa:
-progowanie: 
-rozpoznanie postury przy analizę naświetlenia (światło pada zawsze od przodu)
-lepsze przygotowanie zdjęć(normalizacja kierownica - zagłówek)
-wykrywanie krawędzi
-funkcje ciała (funkcje opisujące konkretne części ciała)
-podział obrazka na konkretne części ciała i zbudowanie klas:
-1.normalizacja
-2.przycięcie
-3.filtr wydatniający kontury
-4.filtr szarości
+1. progowanie: 
+2. rozpoznanie postury przy analizę naświetlenia (światło pada zawsze od przodu)
+3. lepsze przygotowanie zdjęć(normalizacja kierownica - zagłówek)
+4. wykrywanie krawędzi
+5. funkcje ciała (funkcje opisujące konkretne części ciała)
+6. podział obrazka na konkretne części ciała i zbudowanie klas:
+  1.normalizacja
+  2.przycięcie
+  3.filtr wydatniający kontury
+  4.filtr szarości
+
+
