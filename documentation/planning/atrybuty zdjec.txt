@@ -1,4 +1,100 @@
-c0: wyprostowana
-ręce: obie na kierownicy
-sylwetka: 
-głowa skierowana: 
+c0: kierowca skupiony
+ręce: raczej proste w łokciach
+dłonie: obie na kierownicy
+sylwetka: wyprostowana, równoległa do kierownicy
+głowa: skierowana prosto, widoczna z profilu
+lusterko: zamknięte
+białka oczu: widoczne
+policzek: cały widoczny
+tuba?: nos w tubie kierownicy
+
+c1: kierowca ma komórkę w prawej dłoni
+ręce: prawa ręka raczej ugięta ~<=90 stopni, lewa ręka na kierownicy, raczej prosta, wydaje się być trzymana wyżej niż w reszcie klas
+dłonie: prawa dłoń trzyma telefon, lewa na kierownicy
+sylwetka: wyprostowana, ewentualnie lekko w prawo
+głowa: prosto albo lekko w prawo i na dół
+lusterko zamknięte:
+białka oczu: mało widoczne, widoczne dwoje oczu
+policzek: cały widoczny
+tuba?: nos w tubie kierownicy
+
+c2: kierowca rozmawia trzymając komórkę w prawej dłoni
+ręce: prawa mocno zgięta ~<=45 stopni, lewa ręka na kierownicy, raczej prosta
+dłonie: prawa dłoń trzyma telefon (palce raczej rozpoztarte), lewa na kierownicy 
+sylwetka: wyprostowana
+głowa: prosto
+lusterko: zamknięte 
+białka oczu: widoczne
+policzek: mało widoczny
+tuba?: nos w tubie kierownicy
+
+c3: kierowca ma komórkę w lewej dłoni
+ręce: lewa dłoń zgięta ~<=90 stopni, mało widoczna, widoczne tylko przedramię, prawa ręka raczej prosta, wydaje się umieszczona niżej niż w innych klasach
+dłonie: lewa dłoń trzyma telefon, prawa dłoń na kierownicy
+sylwetka: raczej prosta
+głowa: skierowana prosto lub lekko w dół
+lusterko: zamknięte
+białka oczu: mało widoczne, widoczne głównie prawe oko, rzadko widać oboje oczu
+policzek: widoczny
+tuba?: nos w tubie kierownicy
+
+c4: kierowca rozmawia trzymając komórkę w lewej dłoni
+ręce: lewa dłoń zgięta ~<=45 stopni, mało widoczna, widoczne tylko przedramię, prawa ręka raczej prosta albo lekko zgięta, wydaje się umieszczona niżej niż w innych klasach
+dłonie: lewa dłoń trzyma telefon, prawa dłoń na kierownicy
+sylwetka: raczej wyprostowana, skierowana lekko w prawą stronę
+głowa: skierowana prosto
+lusterko: zamknięte
+białka oczu: widoczne, przeważnie widać oboje oczu
+policzek: mało widoczny
+tuba?: nos w tubie kierownicy
+
+c5: kierowca stroi radio
+ręce: lewa ręka raczej wyprostowana, prawa ręka wyprostowana, przeważnie skierowana w prawy dolny róg
+dłonie: lewa na kierownicy, prawa w kierunku radia często ucięta
+sylwetka: wyprostowana, często oderwana od fotela skierowana w prawą stronę
+głowa: skierowana w prawo i dół
+lusterko: zamknięte
+białka oczu: mało widoczne, widoczne oboje oczu
+policzek: widoczny
+tuba?: nos w tubie kierownicy
+
+c6: kierowca pije
+ręce: lewa raczej wyprostowana trzymana wyżej niż w innych klasach, prawa mocno zgięta trzymana bliżej głowy niż w innych klasach
+dłonie: lewa na kierownicy, prawa trzyma kubek
+sylwetka: raczej wyprostowana albo skierowana lekko w prawo
+głowa: skierowana prosto do góry albo lekko w prawo do góry, 
+lusterko: zamknięte
+białka oczu: widoczne albo mało widoczne
+policzek widoczny, bardziej zacieniony
+tuba?: nos w tubie kierownicy
+
+c7: kierowca sięga za siebie
+ręce: lewa raczej wyprostowana trzymana wyżej, prawa raczej wyprostowana skierowana w lewy dolny róg, często ucięta
+dłonie: lewa na kierownicy, prawa niewidoczna 
+sylwetka: mocno skierowana w prawą stronę, oderwana od fotela, mocno skręcona
+głowa: skierowana prosto lub w prawo, czesto przechylona w prawo lub mocno skręcona w prawy dolny róg
+lusterko: zamknięte
+białka oczu: widoczne albo niewidoczne, jeżeli widać to oboje oczu
+pas bezpieczeństwa: dobrze widoczny
+policzek: widoczny, czasem oba czasem tylko lewy
+tuba?: nos poza tubą kierownicy
+
+c8: kierowca poprawia włosy albo robi makeup
+ręce: jedna wyprostowana (prawa albo lewa) druga mocno zgięta w kierunku głowy
+dłonie: jedna na kierownicy (prawa albo lewa), druga przy głowie, ułożona w nietypowy sposób, czasem z przedmiotem w dłoni
+sylwetka: raczej wyprostowana, czasem wychylona do przodu, oderwana od oparcia
+głowa: często przechylona w różne strony, często podniesiona do góry
+lusterko: często widoczne
+białka oczu: raczej widoczne
+policzek: często zasłonięty przez dłoń albo zacieniony
+tuba?: nos w tubie kierownicy
+
+c9: kierowca rozmawia z pasażerem
+ręce: lewa ręka wyprostowane, prawa ręka wyprostowana lub mocno zgięta
+dłonie: lewa na kierownicy, prawa czasem znajduje sie na kolanie lub w powietrzu
+sylwetka: skierowana w prawo
+głowa: skierowana w prawo
+lusterko: niewidoczne
+białka oczu: dobrze widoczne, często widać oboje oczu, oczy często skierowane mocno w prawo (do tyłu)
+policzek:często widoczny lewy, prawy zacieniony
+tuba?: nos w tubie kierownicy

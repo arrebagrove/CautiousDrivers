@@ -12,3 +12,8 @@ podział obrazka na konkretne części ciała i zbudowanie klas:
 2.przycięcie
 3.filtr wydatniający kontury
 4.filtr szarości
+
+wykrywanie pasu (np jako punkt orientacyjny)
+rozpoznawanie telefonu jako dwie nienaturalnie równoległe linie przy głowie
+sprawdzanie linii brwi i oczu - im dłuższa tym bardziej postać zwrócona w prawo
+sprawdzanie zwrócenia twarzy po ocenie jej naświetlenia
