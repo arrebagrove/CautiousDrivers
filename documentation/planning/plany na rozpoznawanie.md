@@ -1,28 +1,35 @@
-Dwa sposoby: 
-analiza sylwetki
-rozpoznanie szkieletu + przedmiotów, 
-wykrywanie ramion przez sprogowanie i wykrycie linii ramion
+### Przygotowanie i normalizacja
+- przycięcie do ramki kierownica - zagłówek
+- zmniejszenie
+- obrócenie do jednej linii np. okna
+- wyszarzenie?
+- skontrastowanie?
+- uwydatnienie konturów?
 
-analiza całościowa:
 
-różnicowanie obrazków [przykład z twarzami: wektor zwektoryzowanych obrazków * ]
-one against all
-safe driver i % porownanie odchylow z pozostałych klas
+Sposoby: 
+### podział obrazka na obszary
+badanie położenia różnych części ciała w obszarach i odchyleń
 
-transformata hough'a (?) - wykrywanie krawedzi
+### analiza sylwetki
 
-progowanie: 
-rozpoznanie postury przy analizę naświetlenia (światło pada zawsze od przodu)
+- rozpoznanie szkieletu + przedmiotów, 
+- wykrywanie ramion przez sprogowanie i wykrycie linii ramion
+- progowanie: 
+ - rozpoznanie postury przy analizę naświetlenia (światło pada zawsze od przodu)
+- wykrywanie krawędzi (transformata hough'a (?))
+- funkcje ciała (funkcje opisujące konkretne części ciała)
 
-wykrywanie krawędzi
-funkcje ciała (funkcje opisujące konkretne części ciała)
-podział obrazka na konkretne części ciała i zbudowanie klas:
-1.normalizacja
-2.przycięcie
-3.filtr wydatniający kontury
-4.filtr szarości
+### analiza całościowa:
 
-wykrywanie pasu (np jako punkt orientacyjny)
-rozpoznawanie telefonu jako dwie nienaturalnie równoległe linie przy głowie
-sprawdzanie linii brwi i oczu - im dłuższa tym bardziej postać zwrócona w prawo
-sprawdzanie zwrócenia twarzy po ocenie jej naświetlenia
+- różnicowanie obrazków [przykład z twarzami: wektor zwektoryzowanych obrazków * ]
+- one against all
+- safe driver i % porównania odchyłów od pozostałych klas
+
+### inne
+- wykrywanie pasu (np jako punkt orientacyjny)
+- liczba rąk na kierownicy
+- testy binarne
+- rozpoznawanie telefonu jako dwie nienaturalnie równoległe linie przy głowie
+- sprawdzanie linii brwi i oczu - im dłuższa tym bardziej postać zwrócona w prawo
+- sprawdzanie zwrócenia twarzy po ocenie jej naświetlenia
