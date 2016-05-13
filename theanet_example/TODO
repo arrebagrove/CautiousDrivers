@@ -1,0 +1,22 @@
+TODO
+
+
+Main
+----
+20) Multiply aux data by 100. 
+
+13) Add Space/Null/Junk
+
+16) Add documentation for prms_files
+
+17) Create unit_test
+
+18) Make index & an "offset" arguments to the training function.
+    So that batches experience some mix.
+    Even better, specify a different permutation vector for each epoch.
+
+Secondary
+---------
+6) Add support for multi-map images
+
+19) Add support for rectangular images
